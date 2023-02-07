@@ -38,4 +38,9 @@ $$
 \end{aligned}
 $$
 
+### Links:
+
+[Noble Model on Scholarpedia](http://www.scholarpedia.org/article/Noble_model)
+
+[Noble Model Notes](https://www.ibiblio.org/e-notes/html5/n62.html)
 
